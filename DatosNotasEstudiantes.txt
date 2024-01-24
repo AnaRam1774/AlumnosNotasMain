@@ -1,0 +1,2 @@
+Ana,50,70,80,66.0,Alumno Aprobado
+AnaMaria,70,85,60,71.0,Alumno Aprobado
